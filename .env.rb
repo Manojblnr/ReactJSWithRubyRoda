@@ -1,0 +1,1 @@
+ENV['DB_FILE'] ||= "./server/database/reactRubyonRoda.sqlite"
